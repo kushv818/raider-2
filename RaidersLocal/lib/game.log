@@ -1,0 +1,88 @@
+Apr 06, 2023 9:58:41 AM de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+java.lang.NullPointerException: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+	at RaidersLocal.RaidersMath.getMouseDirection(RaidersMath.java:23)
+	at entities.Player.calcDirection(Player.java:163)
+	at entities.Player.update(Player.java:169)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:86)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Apr 06, 2023 9:58:41 AM de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+java.lang.NullPointerException: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+	at RaidersLocal.RaidersMath.getMouseDirection(RaidersMath.java:23)
+	at entities.Player.calcDirection(Player.java:163)
+	at entities.Player.update(Player.java:169)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:86)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Apr 06, 2023 9:58:41 AM de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+java.lang.NullPointerException: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+	at RaidersLocal.RaidersMath.getMouseDirection(RaidersMath.java:23)
+	at entities.Player.calcDirection(Player.java:163)
+	at entities.Player.update(Player.java:169)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:86)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Apr 06, 2023 9:58:41 AM de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+java.lang.NullPointerException: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+	at RaidersLocal.RaidersMath.getMouseDirection(RaidersMath.java:23)
+	at entities.Player.calcDirection(Player.java:163)
+	at entities.Player.update(Player.java:169)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:86)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Apr 06, 2023 9:58:41 AM de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+java.lang.NullPointerException: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+	at RaidersLocal.RaidersMath.getMouseDirection(RaidersMath.java:23)
+	at entities.Player.calcDirection(Player.java:163)
+	at entities.Player.update(Player.java:169)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:86)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Apr 06, 2023 9:58:41 AM de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+java.lang.NullPointerException: Cannot invoke "java.awt.Point.getX()" because "mouseLoc" is null
+	at RaidersLocal.RaidersMath.getMouseDirection(RaidersMath.java:23)
+	at entities.Player.calcDirection(Player.java:163)
+	at entities.Player.update(Player.java:169)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:86)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Apr 10, 2023 1:34:03 PM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.10.0 of map "tutorial" is greater than the supported version 1.2.x. Some features may not work.
+Apr 10, 2023 1:34:03 PM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.10.0 of map "null" is greater than the supported version 1.2.x. Some features may not work.
+Apr 10, 2023 1:34:03 PM de.gurkenlabs.litiengine.DefaultUncaughtExceptionHandler uncaughtException
+SEVERE: Game crashed! :(
+java.lang.Error: Unresolved compilation problem: 
+
+	at entities.Player.instance(Player.java:86)
+	at RaidersLocal.RaidersLogic.lambda$0(RaidersLogic.java:36)
+	at de.gurkenlabs.litiengine.environment.GameWorld.loadEnvironment(GameWorld.java:383)
+	at de.gurkenlabs.litiengine.environment.GameWorld.loadEnvironment(GameWorld.java:422)
+	at RaidersLocal.Main.main(Main.java:30)
+
+Apr 10, 2023 1:34:16 PM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.10.0 of map "tutorial" is greater than the supported version 1.2.x. Some features may not work.
+Apr 10, 2023 1:34:16 PM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.10.0 of map "null" is greater than the supported version 1.2.x. Some features may not work.
+Apr 10, 2023 4:29:41 PM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.10.0 of map "tutorial" is greater than the supported version 1.2.x. Some features may not work.
+Apr 10, 2023 4:29:42 PM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.10.0 of map "null" is greater than the supported version 1.2.x. Some features may not work.
